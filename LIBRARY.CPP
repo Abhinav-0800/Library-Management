@@ -540,8 +540,7 @@ void intro()
 	cout<<"MANAGEMENT";
 	gotoxy(35,17);
 	cout<<"SYSTEM";
-	cout<<"\n\nMADE BY : YOUR NAME";
-	cout<<"\n\nSCHOOL : SCHOOL NAME";
+	cout<<"\n\nMADE BY : Abhinav Singh";
 	getch();
 }
 
